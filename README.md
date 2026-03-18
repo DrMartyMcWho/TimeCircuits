@@ -9,12 +9,12 @@ Enjoy the classic Back to the Future time machine time circuits on your computer
 
 This alpha release was tested for MacOS 15 (Sequoia) but hasn't been tested with other MacOS versions.  The screen saver will adapt for all screensizes but is intended for wide screens.  Ultra wide screens may see some stretching but it still works.
 
-For Japanese imperial calendar, the letters represent different eras: 
-R - Reiwa (2019 - Present)
-H - Heisei (1989 - 2019)
-S - Showa (1926 - 1989)
-T - Taisho (1912 - 1926)
-M - Meiji (1868 - 1912)
+For Japanese imperial calendar, the letters represent different eras: <br>
+R - Reiwa (2019 - Present) <br>
+H - Heisei (1989 - 2019) <br>
+S - Showa (1926 - 1989) <br>
+T - Taisho (1912 - 1926) <br>
+M - Meiji (1868 - 1912) <br>
 
 ## To install
 1. Download the repository
