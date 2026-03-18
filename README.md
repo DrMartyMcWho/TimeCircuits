@@ -1,4 +1,8 @@
-# Dr. Marty McWho's Back to the Future TimeCircuits MacOS Screen Saver
+<div align="center"><img src="https://brandlogovector.com/wp-content/uploads/2022/02/Back-to-the-Future-Logo.png" alt="Brand Logo Vector"></div>
+
+# Dr. Marty McWho's Back to the Future TimeCircuits MacOS Screen Saver 
+
+
 Enjoy the classic Back to the Future time machine time circuits on your computer!  Take a blast into the past and slap your nerdy nature into gear.  You can select a Destination Time and a Last Time Departed, with code that can also display the Japanese Imperial calendar (don't worry the Gregorian calendar is default).  Select any year and time of your choosing and get ready to see some serious shit!  
 
 ![Example Screenshot](TimeCircuits.png)
