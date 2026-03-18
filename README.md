@@ -38,6 +38,8 @@ I get a black screen.
 How do I get my screensaver to show Japanese Imperial calendar?
 - You need to set your system settings of your computer to Japanese Imperial, first. System Settings > Language & Region > Calendar select "Japanese"
 
+How do I change the year and month easily in the calendar view?
+- This depends on your MacOS, but for all of them, if you enter the year in YYYY in month format and click the 📅, the calendar will update to the year you chose.  Same goes with the month.
 
 
 Report any additional bugs you might find.
