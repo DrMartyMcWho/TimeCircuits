@@ -1,0 +1,355 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2355BD812F68CCF00099A901 /* ScreenSaver.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2355BD802F68CCF00099A901 /* ScreenSaver.framework */; };
+		2355BD832F68CD7E0099A901 /* TimeCircuitsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2355BD822F68CD7E0099A901 /* TimeCircuitsView.swift */; };
+		2355BD852F68D1610099A901 /* DSEG7Classic-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2355BD842F68D1610099A901 /* DSEG7Classic-Italic.ttf */; };
+		2355BD882F68E0A00099A901 /* DSEG14Classic-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2355BD872F68E0A00099A901 /* DSEG14Classic-BoldItalic.ttf */; };
+		2355BD8A2F68E32F0099A901 /* ConfigPanel.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2355BD892F68E32F0099A901 /* ConfigPanel.xib */; };
+		2355BD8E2F68E3D00099A901 /* ConfigPanelControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2355BD8D2F68E3D00099A901 /* ConfigPanelControl.swift */; };
+		2355BD902F68E91A0099A901 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2355BD8F2F68E91A0099A901 /* Media.xcassets */; };
+		2355BD922F6911760099A901 /* Microgramma-Normal.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2355BD912F6911760099A901 /* Microgramma-Normal.ttf */; };
+		2355BD942F69117D0099A901 /* Microgramma-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2355BD932F69117D0099A901 /* Microgramma-Bold.ttf */; };
+		2355BD962F6924740099A901 /* thumbnail.png in Resources */ = {isa = PBXBuildFile; fileRef = 2355BD952F6924740099A901 /* thumbnail.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2355BD782F68CCA50099A901 /* TimeCircuits.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TimeCircuits.saver; sourceTree = BUILT_PRODUCTS_DIR; };
+		2355BD802F68CCF00099A901 /* ScreenSaver.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ScreenSaver.framework; path = System/Library/Frameworks/ScreenSaver.framework; sourceTree = SDKROOT; };
+		2355BD822F68CD7E0099A901 /* TimeCircuitsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeCircuitsView.swift; sourceTree = "<group>"; };
+		2355BD842F68D1610099A901 /* DSEG7Classic-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DSEG7Classic-Italic.ttf"; sourceTree = "<group>"; };
+		2355BD862F68D1B10099A901 /* TimeCircuits-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "TimeCircuits-Info.plist"; sourceTree = "<group>"; };
+		2355BD872F68E0A00099A901 /* DSEG14Classic-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DSEG14Classic-BoldItalic.ttf"; sourceTree = "<group>"; };
+		2355BD892F68E32F0099A901 /* ConfigPanel.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ConfigPanel.xib; sourceTree = "<group>"; };
+		2355BD8D2F68E3D00099A901 /* ConfigPanelControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfigPanelControl.swift; sourceTree = "<group>"; };
+		2355BD8F2F68E91A0099A901 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
+		2355BD912F6911760099A901 /* Microgramma-Normal.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Microgramma-Normal.ttf"; sourceTree = "<group>"; };
+		2355BD932F69117D0099A901 /* Microgramma-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Microgramma-Bold.ttf"; sourceTree = "<group>"; };
+		2355BD952F6924740099A901 /* thumbnail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumbnail.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2355BD752F68CCA50099A901 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2355BD812F68CCF00099A901 /* ScreenSaver.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2355BD6F2F68CCA50099A901 = {
+			isa = PBXGroup;
+			children = (
+				2355BD862F68D1B10099A901 /* TimeCircuits-Info.plist */,
+				2355BD822F68CD7E0099A901 /* TimeCircuitsView.swift */,
+				2355BD892F68E32F0099A901 /* ConfigPanel.xib */,
+				2355BD952F6924740099A901 /* thumbnail.png */,
+				2355BD8F2F68E91A0099A901 /* Media.xcassets */,
+				2355BD8D2F68E3D00099A901 /* ConfigPanelControl.swift */,
+				2355BD932F69117D0099A901 /* Microgramma-Bold.ttf */,
+				2355BD912F6911760099A901 /* Microgramma-Normal.ttf */,
+				2355BD872F68E0A00099A901 /* DSEG14Classic-BoldItalic.ttf */,
+				2355BD842F68D1610099A901 /* DSEG7Classic-Italic.ttf */,
+				2355BD7F2F68CCF00099A901 /* Frameworks */,
+				2355BD792F68CCA50099A901 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2355BD792F68CCA50099A901 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2355BD782F68CCA50099A901 /* TimeCircuits.saver */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2355BD7F2F68CCF00099A901 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2355BD802F68CCF00099A901 /* ScreenSaver.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2355BD772F68CCA50099A901 /* TimeCircuits */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2355BD7C2F68CCA50099A901 /* Build configuration list for PBXNativeTarget "TimeCircuits" */;
+			buildPhases = (
+				2355BD742F68CCA50099A901 /* Sources */,
+				2355BD752F68CCA50099A901 /* Frameworks */,
+				2355BD762F68CCA50099A901 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TimeCircuits;
+			packageProductDependencies = (
+			);
+			productName = TimeCircuits;
+			productReference = 2355BD782F68CCA50099A901 /* TimeCircuits.saver */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2355BD702F68CCA50099A901 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 2630;
+				TargetAttributes = {
+					2355BD772F68CCA50099A901 = {
+						CreatedOnToolsVersion = 26.3;
+						LastSwiftMigration = 2630;
+					};
+				};
+			};
+			buildConfigurationList = 2355BD732F68CCA50099A901 /* Build configuration list for PBXProject "TimeCircuits" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2355BD6F2F68CCA50099A901;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 2355BD792F68CCA50099A901 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2355BD772F68CCA50099A901 /* TimeCircuits */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2355BD762F68CCA50099A901 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2355BD882F68E0A00099A901 /* DSEG14Classic-BoldItalic.ttf in Resources */,
+				2355BD8A2F68E32F0099A901 /* ConfigPanel.xib in Resources */,
+				2355BD942F69117D0099A901 /* Microgramma-Bold.ttf in Resources */,
+				2355BD902F68E91A0099A901 /* Media.xcassets in Resources */,
+				2355BD852F68D1610099A901 /* DSEG7Classic-Italic.ttf in Resources */,
+				2355BD922F6911760099A901 /* Microgramma-Normal.ttf in Resources */,
+				2355BD962F6924740099A901 /* thumbnail.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2355BD742F68CCA50099A901 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2355BD8E2F68E3D00099A901 /* ConfigPanelControl.swift in Sources */,
+				2355BD832F68CD7E0099A901 /* TimeCircuitsView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		2355BD7A2F68CCA50099A901 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.7;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		2355BD7B2F68CCA50099A901 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.7;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		2355BD7D2F68CCA50099A901 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "TimeCircuits-Info.plist";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSPrincipalClass = TimeCircuitsView;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Bundles";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = McWho.TimeCircuits;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 6.0;
+				WRAPPER_EXTENSION = saver;
+			};
+			name = Debug;
+		};
+		2355BD7E2F68CCA50099A901 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "TimeCircuits-Info.plist";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSPrincipalClass = TimeCircuitsView;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Bundles";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = McWho.TimeCircuits;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 6.0;
+				WRAPPER_EXTENSION = saver;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2355BD732F68CCA50099A901 /* Build configuration list for PBXProject "TimeCircuits" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2355BD7A2F68CCA50099A901 /* Debug */,
+				2355BD7B2F68CCA50099A901 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2355BD7C2F68CCA50099A901 /* Build configuration list for PBXNativeTarget "TimeCircuits" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2355BD7D2F68CCA50099A901 /* Debug */,
+				2355BD7E2F68CCA50099A901 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2355BD702F68CCA50099A901 /* Project object */;
+}
