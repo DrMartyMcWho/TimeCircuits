@@ -5,7 +5,7 @@
 
 Enjoy the classic Back to the Future time machine time circuits on your computer!  Take a blast into the past and slap your nerdy nature into gear.  You can select a Destination Time and a Last Time Departed, with code that can also display the Japanese Imperial calendar (***don't worry the Gregorian calendar is default***).  Select any year and time of your choosing and get ready to see some serious shit!  
 
-![Example Screenshot](TimeCircuits.png)
+![Example Screenshot](TimeCircuits-Gregorian.png)
 
 This alpha release was tested for MacOS 15 (Sequoia) but hasn't been tested with other MacOS versions.  The screen saver will adapt for all screensizes but is intended for wide screens.  Ultra wide screens may see some stretching but it still works.
 
@@ -15,6 +15,8 @@ H - Heisei (1989 - 2019) <br>
 S - Showa (1926 - 1989) <br>
 T - Taisho (1912 - 1926) <br>
 M - Meiji (1868 - 1912) <br>
+
+![Example Screenshot](TimeCircuits.png)
 
 ## To install
 1. Download the repository (If you don't want to download the full repository, you can just download the release (zip) file.)
