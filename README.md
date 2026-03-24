@@ -17,7 +17,7 @@ T - Taisho (1912 - 1926) <br>
 M - Meiji (1868 - 1912) <br>
 
 ## To install
-1. Download the repository
+1. Download the repository (If you don't want to download the full repository, you can just download the release (zip) file.)
 2. Unzip the file
 3. Double click the TimeCircuits.saver to install
 4. Accept any prompts
@@ -40,6 +40,9 @@ How do I get my screensaver to show Japanese Imperial calendar?
 
 How do I change the year and month easily in the calendar view?
 - This depends on your MacOS, but for all of them, if you enter the year in YYYY in month format and click the 📅, the calendar will update to the year you chose.  Same goes with the month.
+
+
+### Note: This is an open source project so any reproduction would require author credit and keeping your code open source.  Read the license for details.
 
 
 Report any additional bugs you might find.
