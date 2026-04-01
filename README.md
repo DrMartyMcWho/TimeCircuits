@@ -19,7 +19,7 @@ M - Meiji (1868 - 1912) <br>
 ![Example Screenshot](TimeCircuits.png)
 
 ## To install
-1. Download the repository (If you don't want to download the full repository, you can just download the release (zip) file.)
+1. Download the repository [If you don't want to download the full repository, you can just download the release (zip) file, here https://github.com/DrMartyMcWho/TimeCircuits/releases/tag/v0.1.0-alpha]
 2. Unzip the file
 3. Double click the TimeCircuits.saver to install
 4. Accept any prompts
